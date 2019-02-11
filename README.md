@@ -26,3 +26,15 @@ Data: https://drive.google.com/drive/u/0/folders/0B-zoMsiXW40gZlNtNnlINEszRTg
 ●	max_price- Maximum price charged per quintal<br>
 ●	modal_price- Mode (Average) price charged per quintal<br>
 
+<h3>Description of the files in this Repository</h3>
+<ol>
+  <li><strong>main.ipynb - </strong>The Main Jupyter Notebook for analysis and Documentation with graphs.</li>
+  <li><strong>CMO_MSP_Mandi.csv - </strong>Input Commodity MSP dataset</li>
+  <li><strong>Monthly_data_cmo.csv - </strong>Input Monthly Price analysis</li>
+  <li><strong>Commodity_seasonality.csv - </strong>APMC-Commodity Seasonality</li>
+  <li><strong>Deseasonalised_prices.csv - </strong>Deseasonalised Prices</li>
+  <li><strong>Highest_Fluctuation_Commodity_APMC.csv - </strong>Highest Fluctuation Commodities aling APMCs</li>
+  <li><strong>Highest_Fluctuation_Season_Year.csv - </strong>Highest FLuctuation Commodities along a season and yearly</li>
+  <li><strong>Mandi_msp_processed.csv - </strong>Preprocessed Mandi MSP dataset</li>
+  <li><strong>monthly_data_cmo_no_outliers.csv - </strong>Preprocessed Monthly Price dataset</li>
+</ol>
