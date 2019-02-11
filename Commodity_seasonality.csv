@@ -1,0 +1,908 @@
+	Commodity	Seasonality Type
+0	akole:bajri	Multiplicative
+1	akole:paddy-unhusked	Multiplicative
+2	akole:wheat(husked)	Multiplicative
+3	akole:gram	Additive
+4	akole:soybean	Multiplicative
+5	akole:onion	Multiplicative
+6	jamkhed:bajri	Additive
+7	jamkhed:wheat(husked)	Multiplicative
+8	jamkhed:sorgum(jawar)	Multiplicative
+9	jamkhed:onion	Multiplicative
+10	kopargaon:bajri	Multiplicative
+11	kopargaon:wheat(husked)	Multiplicative
+12	kopargaon:sorgum(jawar)	Additive
+13	kopargaon:maize	Additive
+14	kopargaon:gram	Additive
+15	kopargaon:soybean	Multiplicative
+16	kopargaon:onion	Multiplicative
+17	newasa:wheat(husked)	Multiplicative
+18	pathardi:bajri	Multiplicative
+19	pathardi:wheat(husked)	Additive
+20	pathardi:sorgum(jawar)	Multiplicative
+21	pathardi:onion	Multiplicative
+22	rahata:bajri	Multiplicative
+23	rahata:wheat(husked)	Additive
+24	rahata:sorgum(jawar)	Multiplicative
+25	rahata:maize	Additive
+26	rahata:gram	Multiplicative
+27	rahata:pomegranate	Multiplicative
+28	rahata:lemon	Additive
+29	rahata:ginger (fresh)	Multiplicative
+30	rahata:potato	Additive
+31	rahata:ladies finger	Multiplicative
+32	rahata:bottle gourd	Multiplicative
+33	rahata:carrot	Additive
+34	rahata:ghevda	Multiplicative
+35	rahata:cucumber	Additive
+36	rahata:bitter gourd	Additive
+37	rahata:garlic	Multiplicative
+38	rahata:capsicum	Additive
+39	rahata:shevga	Multiplicative
+40	rahata:tomato	Multiplicative
+41	rahata:small gourd	Multiplicative
+42	rahata:brinjal	Multiplicative
+43	rahata:green chilli	Multiplicative
+44	rahuri-vambori:bajri	Multiplicative
+45	rahuri-vambori:wheat(husked)	Additive
+46	rahuri-vambori:sorgum(jawar)	Multiplicative
+47	rahuri-vambori:maize	Multiplicative
+48	rahuri-vambori:gram	Additive
+49	rahuri-vambori:soybean	Additive
+50	rahuri-vambori:onion	Additive
+51	sangamner:bajri	Multiplicative
+52	sangamner:wheat(husked)	Additive
+53	sangamner:sorgum(jawar)	Additive
+54	sangamner:maize	Additive
+55	sangamner:gram	Additive
+56	sangamner:pomegranate	Multiplicative
+57	shevgaon:bajri	Multiplicative
+58	shevgaon:wheat(husked)	Multiplicative
+59	shevgaon:sorgum(jawar)	Multiplicative
+60	shevgaon:gram	Additive
+61	shevgaon-bodhegaon:bajri	Multiplicative
+62	shevgaon-bodhegaon:wheat(husked)	Additive
+63	shevgaon-bodhegaon:sorgum(jawar)	Additive
+64	shrirampur:bajri	Multiplicative
+65	shrirampur:wheat(husked)	Additive
+66	shrirampur:sorgum(jawar)	Additive
+67	shrirampur:maize	Multiplicative
+68	shrirampur:gram	Multiplicative
+69	shrirampur:chikoo	Multiplicative
+70	shrirampur:pomegranate	Multiplicative
+71	shrirampur:water melon	Multiplicative
+72	shrirampur:lemon	Additive
+73	shrirampur:mosambi	Additive
+74	shrirampur:papai	Additive
+75	shrirampur:ginger (fresh)	Multiplicative
+76	shrirampur:potato	Multiplicative
+77	shrirampur:ladies finger	Multiplicative
+78	shrirampur:bottle gourd	Multiplicative
+79	shrirampur:flower	Multiplicative
+80	shrirampur:cucumber	Multiplicative
+81	shrirampur:cabbage	Additive
+82	shrirampur:garlic	Additive
+83	shrirampur:capsicum	Additive
+84	shrirampur:tomato	Multiplicative
+85	shrirampur:brinjal	Multiplicative
+86	shrirampur:green chilli	Additive
+87	balapur:wheat(husked)	Multiplicative
+88	balapur:sorgum(jawar)	Additive
+89	balapur:gram	Multiplicative
+90	balapur:green gram	Additive
+91	balapur:pigeon pea (tur)	Additive
+92	balapur:soybean	Additive
+93	murtizapur:wheat(husked)	Additive
+94	murtizapur:gram	Additive
+95	murtizapur:pigeon pea (tur)	Multiplicative
+96	murtizapur:soybean	Multiplicative
+97	patur:wheat(husked)	Multiplicative
+98	patur:sorgum(jawar)	Additive
+99	patur:soybean	Additive
+100	telhara:wheat(husked)	Multiplicative
+101	telhara:sorgum(jawar)	Multiplicative
+102	telhara:gram	Multiplicative
+103	telhara:pigeon pea (tur)	Multiplicative
+104	telhara:soybean	Multiplicative
+105	amarawati:wheat(husked)	Additive
+106	amarawati:sorgum(jawar)	Multiplicative
+107	amarawati:gram	Multiplicative
+108	amarawati:green gram	Additive
+109	amarawati:pigeon pea (tur)	Multiplicative
+110	amarawati:black gram	Multiplicative
+111	amarawati:soybean	Additive
+112	anajngaon surji:wheat(husked)	Multiplicative
+113	anajngaon surji:sorgum(jawar)	Additive
+114	anajngaon surji:gram	Multiplicative
+115	anajngaon surji:pigeon pea (tur)	Multiplicative
+116	anajngaon surji:soybean	Additive
+117	anajngaon surji:banana	Multiplicative
+118	chandur bajar:wheat(husked)	Multiplicative
+119	chandur bajar:gram	Multiplicative
+120	chandur bajar:pigeon pea (tur)	Additive
+121	chandur bajar:soybean	Additive
+122	morshi:wheat(husked)	Multiplicative
+123	morshi:sorgum(jawar)	Multiplicative
+124	morshi:gram	Additive
+125	morshi:soybean	Additive
+126	varud-rajura bazar:sorgum(jawar)	Additive
+127	varud-rajura bazar:gram	Additive
+128	varud-rajura bazar:soybean	Multiplicative
+129	aurangabad:pomegranate	Multiplicative
+130	aurangabad:lemon	Multiplicative
+131	aurangabad:mosambi	Additive
+132	aurangabad:papai	Multiplicative
+133	aurangabad:ginger (fresh)	Multiplicative
+134	aurangabad:potato	Multiplicative
+135	aurangabad:ladies finger	Additive
+136	aurangabad:bottle gourd	Multiplicative
+137	aurangabad:flower	Multiplicative
+138	aurangabad:cluster bean	Multiplicative
+139	aurangabad:cucumber	Multiplicative
+140	aurangabad:onion	Multiplicative
+141	aurangabad:bitter gourd	Multiplicative
+142	aurangabad:cabbage	Additive
+143	aurangabad:garlic	Additive
+144	aurangabad:capsicum	Multiplicative
+145	aurangabad:shevga	Additive
+146	aurangabad:tomato	Multiplicative
+147	aurangabad:brinjal	Additive
+148	aurangabad:green chilli	Additive
+149	gangapur:bajri	Multiplicative
+150	gangapur:wheat(husked)	Multiplicative
+151	gangapur:sorgum(jawar)	Additive
+152	gangapur:maize	Multiplicative
+153	gangapur:gram	Multiplicative
+154	lasur station:bajri	Additive
+155	lasur station:wheat(husked)	Multiplicative
+156	lasur station:sorgum(jawar)	Multiplicative
+157	lasur station:maize	Multiplicative
+158	lasur station:gram	Additive
+159	lasur station:soybean	Multiplicative
+160	lasur station:onion	Additive
+161	ambejogai:gram	Multiplicative
+162	ambejogai:pigeon pea (tur)	Multiplicative
+163	ambejogai:soybean	Multiplicative
+164	gevrai:bajri	Multiplicative
+165	gevrai:wheat(husked)	Additive
+166	gevrai:sorgum(jawar)	Additive
+167	gevrai:maize	Additive
+168	gevrai:gram	Multiplicative
+169	gevrai:pigeon pea (tur)	Multiplicative
+170	gevrai:soybean	Multiplicative
+171	kada:bajri	Additive
+172	kada:wheat(husked)	Additive
+173	kada:sorgum(jawar)	Additive
+174	kada:maize	Additive
+175	kada:gram	Additive
+176	kada:onion	Multiplicative
+177	kille dharur:bajri	Multiplicative
+178	kille dharur:wheat(husked)	Multiplicative
+179	kille dharur:sorgum(jawar)	Multiplicative
+180	kille dharur:pigeon pea (tur)	Multiplicative
+181	kille dharur:soybean	Additive
+182	majalgaon:bajri	Additive
+183	majalgaon:wheat(husked)	Multiplicative
+184	majalgaon:sorgum(jawar)	Additive
+185	majalgaon:gram	Additive
+186	majalgaon:pigeon pea (tur)	Additive
+187	majalgaon:soybean	Multiplicative
+188	parli-vaijnath:bajri	Additive
+189	parli-vaijnath:sorgum(jawar)	Multiplicative
+190	parli-vaijnath:gram	Multiplicative
+191	parli-vaijnath:pigeon pea (tur)	Additive
+192	parli-vaijnath:soybean	Multiplicative
+193	pavani:paddy-unhusked	Multiplicative
+194	buldhana:gram	Multiplicative
+195	buldhana:soybean	Additive
+196	jalgaon jamod:wheat(husked)	Multiplicative
+197	jalgaon jamod:maize	Additive
+198	jalgaon jamod:soybean	Additive
+199	jalgaon jamod-aasalgaon:wheat(husked)	Additive
+200	jalgaon jamod-aasalgaon:sorgum(jawar)	Additive
+201	jalgaon jamod-aasalgaon:maize	Additive
+202	jalgaon jamod-aasalgaon:gram	Multiplicative
+203	jalgaon jamod-aasalgaon:pigeon pea (tur)	Additive
+204	jalgaon jamod-aasalgaon:soybean	Multiplicative
+205	lonar:wheat(husked)	Multiplicative
+206	lonar:gram	Additive
+207	lonar:soybean	Multiplicative
+208	malkapur:bajri	Multiplicative
+209	malkapur:wheat(husked)	Multiplicative
+210	malkapur:sorgum(jawar)	Multiplicative
+211	malkapur:maize	Additive
+212	malkapur:gram	Multiplicative
+213	malkapur:green gram	Multiplicative
+214	malkapur:pigeon pea (tur)	Additive
+215	malkapur:black gram	Multiplicative
+216	malkapur:soybean	Additive
+217	nandura:bajri	Multiplicative
+218	nandura:wheat(husked)	Additive
+219	nandura:sorgum(jawar)	Multiplicative
+220	nandura:maize	Multiplicative
+221	nandura:gram	Additive
+222	nandura:pigeon pea (tur)	Additive
+223	nandura:black gram	Additive
+224	nandura:soybean	Multiplicative
+225	nandura:sesamum	Multiplicative
+226	shegaon:wheat(husked)	Additive
+227	shegaon:sorgum(jawar)	Additive
+228	shegaon:maize	Additive
+229	shegaon:gram	Additive
+230	shegaon:green gram	Additive
+231	shegaon:pigeon pea (tur)	Multiplicative
+232	shegaon:black gram	Multiplicative
+233	shegaon:thymol/lovage	Additive
+234	shegaon:soybean	Additive
+235	shegaon:sesamum	Additive
+236	shegaon:mustard	Multiplicative
+237	mul:paddy-unhusked	Multiplicative
+238	nagbhid:paddy-unhusked	Additive
+239	dhule:bajri	Multiplicative
+240	dhule:wheat(husked)	Multiplicative
+241	dhule:sorgum(jawar)	Multiplicative
+242	dhule:maize	Multiplicative
+243	dhule:cowpea	Additive
+244	dhule:gram	Additive
+245	dhule:matki	Additive
+246	dhule:green gram	Multiplicative
+247	dhule:pigeon pea (tur)	Multiplicative
+248	dhule:black gram	Multiplicative
+249	dhule:ground nut pods (dry)	Multiplicative
+250	dhule:soybean	Multiplicative
+251	dhule:chillies(red)	Multiplicative
+252	dondaicha:bajri	Multiplicative
+253	dondaicha:wheat(husked)	Additive
+254	dondaicha:sorgum(jawar)	Multiplicative
+255	dondaicha:maize	Additive
+256	dondaicha:gram	Additive
+257	dondaicha:ground nut pods (dry)	Additive
+258	shirpur:bajri	Multiplicative
+259	shirpur:wheat(husked)	Additive
+260	shirpur:sorgum(jawar)	Multiplicative
+261	shirpur:maize	Multiplicative
+262	shirpur:gram	Multiplicative
+263	shirpur:green gram	Multiplicative
+264	shirpur:black gram	Additive
+265	shirpur:ground nut pods (dry)	Additive
+266	shirpur:soybean	Additive
+267	shirpur:onion	Multiplicative
+268	armori:paddy-unhusked	Multiplicative
+269	armori-desaiganj:paddy-unhusked	Multiplicative
+270	chamorshi:paddy-unhusked	Multiplicative
+271	gadchiroli:paddy-unhusked	Multiplicative
+272	aamgaon:paddy-unhusked	Multiplicative
+273	arjuni morgaon:paddy-unhusked	Multiplicative
+274	akhadabalapur:soybean	Multiplicative
+275	basmat:turmeric	Additive
+276	hingoli:gram	Multiplicative
+277	hingoli:pigeon pea (tur)	Multiplicative
+278	hingoli:soybean	Multiplicative
+279	kalamnuri:wheat(husked)	Multiplicative
+280	bhusaval:wheat(husked)	Additive
+281	bhusaval:sorgum(jawar)	Multiplicative
+282	chopda:bajri	Additive
+283	chopda:wheat(husked)	Additive
+284	chopda:sorgum(jawar)	Multiplicative
+285	chopda:maize	Additive
+286	chopda:gram	Additive
+287	jalgaon:bajri	Multiplicative
+288	jalgaon:wheat(husked)	Additive
+289	jalgaon:sorgum(jawar)	Multiplicative
+290	jalgaon:maize	Additive
+291	jalgaon:gram	Multiplicative
+292	jalgaon:black gram	Multiplicative
+293	jalgaon:jaggery	Additive
+294	jalgaon:pomegranate	Additive
+295	jalgaon:banana	Multiplicative
+296	jalgaon:lemon	Additive
+297	jalgaon:mosambi	Multiplicative
+298	jalgaon:ginger (fresh)	Additive
+299	jalgaon:potato	Multiplicative
+300	jalgaon:ladies finger	Additive
+301	jalgaon:chavli (shenga )	Additive
+302	jalgaon:flower	Multiplicative
+303	jalgaon:cluster bean	Additive
+304	jalgaon:cucumber	Multiplicative
+305	jalgaon:onion	Additive
+306	jalgaon:bitter gourd	Multiplicative
+307	jalgaon:cabbage	Multiplicative
+308	jalgaon:coriander  	Additive
+309	jalgaon:garlic	Multiplicative
+310	jalgaon:methi (bhaji)	Multiplicative
+311	jalgaon:spinach	Multiplicative
+312	jalgaon:tomato	Multiplicative
+313	jalgaon:wal papdi	Additive
+314	jalgaon:brinjal	Additive
+315	jalgaon:coriander (dry)	Multiplicative
+316	jalgaon:green chilli	Additive
+317	raver:wheat(husked)	Multiplicative
+318	raver:sorgum(jawar)	Multiplicative
+319	raver:maize	Multiplicative
+320	raver:gram	Additive
+321	bhokardan:wheat(husked)	Multiplicative
+322	bhokardan:sorgum(jawar)	Multiplicative
+323	bhokardan:maize	Additive
+324	bhokardan:soybean	Multiplicative
+325	bhokardan-pimpalgaon renu:wheat(husked)	Multiplicative
+326	bhokardan-pimpalgaon renu:maize	Multiplicative
+327	bhokardan-pimpalgaon renu:soybean	Additive
+328	jafrabad:wheat(husked)	Additive
+329	jafrabad:maize	Multiplicative
+330	jafrabad:soybean	Multiplicative
+331	jalna:bajri	Additive
+332	jalna:wheat(husked)	Multiplicative
+333	jalna:sorgum(jawar)	Multiplicative
+334	jalna:gram	Additive
+335	jalna:green gram	Additive
+336	jalna:pigeon pea (tur)	Multiplicative
+337	jalna:jaggery	Additive
+338	partur:wheat(husked)	Additive
+339	partur:sorgum(jawar)	Multiplicative
+340	vadgaon peth:ladies finger	Additive
+341	vadgaon peth:flower	Multiplicative
+342	vadgaon peth:bitter gourd	Additive
+343	vadgaon peth:cabbage	Additive
+344	vadgaon peth:capsicum	Additive
+345	vadgaon peth:ridge gourd	Multiplicative
+346	vadgaon peth:tomato	Multiplicative
+347	vadgaon peth:brinjal	Additive
+348	ausa:wheat(husked)	Additive
+349	ausa:sorgum(jawar)	Additive
+350	ausa:gram	Additive
+351	ausa:pigeon pea (tur)	Additive
+352	ausa:safflower	Additive
+353	ausa:soybean	Multiplicative
+354	ausa:sunflower	Additive
+355	latur:wheat(husked)	Multiplicative
+356	latur:sorgum(jawar)	Multiplicative
+357	latur:gram	Additive
+358	latur:green gram	Additive
+359	latur:pigeon pea (tur)	Multiplicative
+360	udgir:gram	Additive
+361	udgir:pigeon pea (tur)	Multiplicative
+362	udgir:soybean	Multiplicative
+363	mumbai:cowpea	Additive
+364	mumbai:split gram	Multiplicative
+365	mumbai:split lentil	Multiplicative
+366	mumbai:spilt gerrn gram	Multiplicative
+367	mumbai:green peas (dry)	Additive
+368	mumbai:jaggery	Multiplicative
+369	mumbai:pineapple	Additive
+370	mumbai:chikoo	Multiplicative
+371	mumbai:pomegranate	Additive
+372	mumbai:mosambi	Multiplicative
+373	mumbai:papai	Multiplicative
+374	mumbai:guava	Multiplicative
+375	mumbai:melon	Multiplicative
+376	mumbai:arvi	Additive
+377	mumbai:ladies finger	Multiplicative
+378	mumbai:squash gourd	Multiplicative
+379	mumbai:bottle gourd	Additive
+380	mumbai:flower	Additive
+381	mumbai:carrot	Multiplicative
+382	mumbai:curry leaves	Additive
+383	mumbai:cucumber	Additive
+384	mumbai:bitter gourd	Multiplicative
+385	mumbai:cabbage	Additive
+386	mumbai:capsicum	Multiplicative
+387	mumbai:snake gourd	Multiplicative
+388	mumbai:sweet potato	Additive
+389	mumbai:shevga	Additive
+390	mumbai:ridge gourd	Additive
+391	mumbai:elephant root	Additive
+392	mumbai:small gourd	Additive
+393	mumbai:green-peas	Multiplicative
+394	mumbai:brinjal	Additive
+395	mumbai:ginger (dry)	Multiplicative
+396	mumbai:tamarind	Multiplicative
+397	mumbai:garlic	Multiplicative
+398	mumbai:green chilli	Multiplicative
+399	mumbai:chillies(red)	Multiplicative
+400	bhiwapur:paddy-unhusked	Multiplicative
+401	bhiwapur:chillies(red)	Multiplicative
+402	kalmeshwar:flower	Additive
+403	kalmeshwar:coriander  	Additive
+404	kalmeshwar:spinach	Additive
+405	kalmeshwar:tomato	Multiplicative
+406	kalmeshwar:brinjal	Multiplicative
+407	kalmeshwar:green chilli	Additive
+408	kamthi:lemon	Multiplicative
+409	kamthi:ginger (fresh)	Multiplicative
+410	kamthi:potato	Additive
+411	kamthi:ladies finger	Additive
+412	kamthi:bottle gourd	Multiplicative
+413	kamthi:chavli (shenga )	Additive
+414	kamthi:chavli (pala)	Additive
+415	kamthi:flower	Multiplicative
+416	kamthi:cluster bean	Multiplicative
+417	kamthi:cucumber	Additive
+418	kamthi:onion	Multiplicative
+419	kamthi:bitter gourd	Additive
+420	kamthi:cabbage	Multiplicative
+421	kamthi:pumpkin	Multiplicative
+422	kamthi:coriander  	Multiplicative
+423	kamthi:methi (bhaji)	Multiplicative
+424	kamthi:capsicum	Additive
+425	kamthi:raddish	Additive
+426	kamthi:spinach	Additive
+427	kamthi:mint	Multiplicative
+428	kamthi:tomato	Multiplicative
+429	kamthi:small gourd	Additive
+430	kamthi:brinjal	Multiplicative
+431	kamthi:green chilli	Multiplicative
+432	katol:wheat(husked)	Multiplicative
+433	katol:gram	Additive
+434	katol:pigeon pea (tur)	Multiplicative
+435	katol:ground nut pods (dry)	Additive
+436	katol:soybean	Multiplicative
+437	mandhal:soybean	Additive
+438	mandhal:chillies(red)	Additive
+439	nagpur:wheat(husked)	Additive
+440	nagpur:rice(paddy-hus)	Multiplicative
+441	nagpur:gram	Multiplicative
+442	nagpur:soybean	Additive
+443	nagpur:pineapple	Multiplicative
+444	nagpur:chikoo	Additive
+445	nagpur:pomegranate	Multiplicative
+446	nagpur:grapes	Additive
+447	nagpur:banana	Multiplicative
+448	nagpur:papai	Multiplicative
+449	nagpur:apple	Multiplicative
+450	nagpur:ginger (fresh)	Multiplicative
+451	nagpur:beet root	Multiplicative
+452	nagpur:bottle gourd	Multiplicative
+453	nagpur:flower	Multiplicative
+454	nagpur:cucumber	Multiplicative
+455	nagpur:cabbage	Additive
+456	nagpur:pumpkin	Additive
+457	nagpur:coriander  	Multiplicative
+458	nagpur:capsicum	Additive
+459	nagpur:spinach	Additive
+460	nagpur:tomato	Additive
+461	nagpur:small gourd	Additive
+462	nagpur:brinjal	Multiplicative
+463	nagpur:green chilli	Additive
+464	nagpur:chillies(red)	Additive
+465	ramtek:wheat(husked)	Multiplicative
+466	ramtek:pigeon pea (tur)	Additive
+467	savner:wheat(husked)	Multiplicative
+468	savner:gram	Additive
+469	savner:pigeon pea (tur)	Multiplicative
+470	savner:soybean	Multiplicative
+471	umared:wheat(husked)	Additive
+472	umared:sorgum(jawar)	Multiplicative
+473	umared:rice(paddy-hus)	Additive
+474	umared:gram	Multiplicative
+475	umared:other pulses	Multiplicative
+476	umared:pigeon pea (tur)	Additive
+477	umared:linseed	Additive
+478	umared:soybean	Additive
+479	umared:coriander (dry)	Additive
+480	bhokar:wheat(husked)	Multiplicative
+481	bhokar:gram	Additive
+482	bhokar:pigeon pea (tur)	Additive
+483	bhokar:soybean	Additive
+484	bhokar:sesamum	Multiplicative
+485	bhokar:turmeric	Multiplicative
+486	nanded:wheat(husked)	Multiplicative
+487	nanded:sorgum(jawar)	Additive
+488	nanded:pigeon pea (tur)	Multiplicative
+489	nanded:turmeric	Additive
+490	nandurbar:bajri	Multiplicative
+491	nandurbar:wheat(husked)	Additive
+492	nandurbar:sorgum(jawar)	Additive
+493	nandurbar:maize	Multiplicative
+494	nandurbar:gram	Multiplicative
+495	nandurbar:pigeon pea (tur)	Multiplicative
+496	nandurbar:soybean	Additive
+497	nandurbar:cluster bean	Additive
+498	shahada:bajri	Multiplicative
+499	shahada:wheat(husked)	Multiplicative
+500	shahada:sorgum(jawar)	Multiplicative
+501	shahada:maize	Multiplicative
+502	shahada:gram	Additive
+503	devala:bajri	Multiplicative
+504	devala:wheat(husked)	Additive
+505	devala:sorgum(jawar)	Multiplicative
+506	devala:maize	Additive
+507	devala:gram	Multiplicative
+508	kalvan:bajri	Multiplicative
+509	kalvan:wheat(husked)	Additive
+510	kalvan:maize	Additive
+511	kalvan:soybean	Additive
+512	kalvan:onion	Multiplicative
+513	lasalgaon:bajri	Multiplicative
+514	lasalgaon:wheat(husked)	Multiplicative
+515	lasalgaon:sorgum(jawar)	Additive
+516	lasalgaon:maize	Multiplicative
+517	lasalgaon:gram	Multiplicative
+518	lasalgaon:soybean	Multiplicative
+519	malegaon:bajri	Additive
+520	malegaon:wheat(husked)	Multiplicative
+521	malegaon:maize	Multiplicative
+522	manmad:bajri	Multiplicative
+523	manmad:wheat(husked)	Additive
+524	manmad:maize	Additive
+525	manmad:gram	Additive
+526	pimpalgaon basawant:pomegranate	Additive
+527	sinner:bajri	Additive
+528	sinner:wheat(husked)	Multiplicative
+529	sinner:sorgum(jawar)	Additive
+530	sinner:maize	Additive
+531	sinner:gram	Additive
+532	yeola:bajri	Additive
+533	yeola:wheat(husked)	Additive
+534	yeola:maize	Additive
+535	yeola:gram	Multiplicative
+536	kalamb (os):bajri	Multiplicative
+537	kalamb (os):wheat(husked)	Multiplicative
+538	kalamb (os):sorgum(jawar)	Multiplicative
+539	kalamb (os):maize	Multiplicative
+540	kalamb (os):gram	Multiplicative
+541	kalamb (os):green gram	Multiplicative
+542	kalamb (os):pigeon pea (tur)	Additive
+543	kalamb (os):black gram	Multiplicative
+544	kalamb (os):safflower	Multiplicative
+545	kalamb (os):soybean	Additive
+546	kalamb (os):sunflower	Multiplicative
+547	kalamb (os):sesamum	Additive
+548	tuljapur:sorgum(jawar)	Multiplicative
+549	tuljapur:gram	Additive
+550	umarga:bajri	Multiplicative
+551	umarga:wheat(husked)	Multiplicative
+552	umarga:sorgum(jawar)	Additive
+553	umarga:gram	Additive
+554	umarga:pigeon pea (tur)	Additive
+555	umarga:soybean	Multiplicative
+556	umarga:sunflower	Additive
+557	jintur:wheat(husked)	Multiplicative
+558	jintur:sorgum(jawar)	Multiplicative
+559	jintur:soybean	Additive
+560	parbhani:wheat(husked)	Multiplicative
+561	parbhani:gram	Multiplicative
+562	parbhani:soybean	Additive
+563	pathari:wheat(husked)	Multiplicative
+564	pathari:sorgum(jawar)	Multiplicative
+565	pathari:soybean	Multiplicative
+566	sailu:sorgum(jawar)	Multiplicative
+567	sailu:soybean	Additive
+568	indapur:pomegranate	Additive
+569	indapur:onion	Multiplicative
+570	junnar:onion	Additive
+571	nira:jaggery	Multiplicative
+572	pune:bajri	Additive
+573	pune:wheat(husked)	Additive
+574	pune:sorgum(jawar)	Additive
+575	pune:maize	Additive
+576	pune:rice(paddy-hus)	Multiplicative
+577	pune:gram	Additive
+578	pune:lentil	Multiplicative
+579	pune:green gram	Additive
+580	pune:black gram	Multiplicative
+581	pune:green peas (dry)	Multiplicative
+582	pune:gr.nut kernels	Additive
+583	pune:ginger (fresh)	Multiplicative
+584	pune:beet root	Additive
+585	pune:ladies finger	Multiplicative
+586	pune:squash gourd	Multiplicative
+587	pune:bottle gourd	Multiplicative
+588	pune:chavli (shenga )	Additive
+589	pune:flower	Multiplicative
+590	pune:carrot	Additive
+591	pune:cluster bean	Additive
+592	pune:ghevda	Multiplicative
+593	pune:ghosali(bhaji)	Multiplicative
+594	pune:curry leaves	Multiplicative
+595	pune:mango(raw)	Multiplicative
+596	pune:cucumber	Multiplicative
+597	pune:bitter gourd	Additive
+598	pune:cabbage	Additive
+599	pune:pumpkin	Additive
+600	pune:garlic	Multiplicative
+601	pune:capsicum	Additive
+602	pune:snake gourd	Additive
+603	pune:pavtta	Multiplicative
+604	pune:sweet potato	Multiplicative
+605	pune:shevga	Multiplicative
+606	pune:ridge gourd	Multiplicative
+607	pune:elephant root	Multiplicative
+608	pune:tomato	Additive
+609	pune:small gourd	Multiplicative
+610	pune:green-peas	Additive
+611	pune:wal bhaji	Multiplicative
+612	pune:wal papdi	Multiplicative
+613	pune:walvad	Additive
+614	pune:brinjal	Additive
+615	pune:tamarind	Additive
+616	pune:green chilli	Additive
+617	pune-manjri:ambat chuka	Multiplicative
+618	pune-manjri:ladies finger	Multiplicative
+619	pune-manjri:bottle gourd	Multiplicative
+620	pune-manjri:chavli (pala)	Multiplicative
+621	pune-manjri:flower	Multiplicative
+622	pune-manjri:cluster bean	Additive
+623	pune-manjri:ghosali(bhaji)	Additive
+624	pune-manjri:other vegetables	Multiplicative
+625	pune-manjri:curry leaves	Multiplicative
+626	pune-manjri:cucumber	Additive
+627	pune-manjri:onion	Multiplicative
+628	pune-manjri:kanda pat	Additive
+629	pune-manjri:bitter gourd	Additive
+630	pune-manjri:cabbage	Additive
+631	pune-manjri:coriander  	Multiplicative
+632	pune-manjri:methi (bhaji)	Multiplicative
+633	pune-manjri:raddish	Multiplicative
+634	pune-manjri:spinach	Multiplicative
+635	pune-manjri:mint	Multiplicative
+636	pune-manjri:rajgira	Additive
+637	pune-manjri:shepu	Multiplicative
+638	pune-manjri:ridge gourd	Multiplicative
+639	pune-manjri:tomato	Multiplicative
+640	pune-manjri:walvad	Multiplicative
+641	pune-manjri:brinjal	Additive
+642	pune-manjri:green chilli	Multiplicative
+643	pune-pimpri:beet root	Additive
+644	pune-pimpri:ladies finger	Multiplicative
+645	pune-pimpri:bottle gourd	Multiplicative
+646	pune-pimpri:flower	Additive
+647	pune-pimpri:ghevda	Additive
+648	pune-pimpri:cucumber	Multiplicative
+649	pune-pimpri:onion	Multiplicative
+650	pune-pimpri:bitter gourd	Multiplicative
+651	pune-pimpri:cabbage	Additive
+652	pune-pimpri:tomato	Multiplicative
+653	pune-pimpri:brinjal	Multiplicative
+654	pune-pimpri:green chilli	Multiplicative
+655	shirur:bajri	Multiplicative
+656	shirur:wheat(husked)	Additive
+657	shirur:sorgum(jawar)	Multiplicative
+658	shirur:maize	Multiplicative
+659	shirur:gram	Additive
+660	shirur:indian bean	Multiplicative
+661	shirur:ground nut pods (dry)	Multiplicative
+662	alibag:rice(paddy-hus)	Multiplicative
+663	karjat (raigad):paddy-unhusked	Additive
+664	karjat (raigad):rice(paddy-hus)	Additive
+665	mangaon(bhadav):nachani	Multiplicative
+666	mangaon(bhadav):nagali	Multiplicative
+667	mangaon(bhadav):rice(paddy-hus)	Multiplicative
+668	pen:paddy-unhusked	Additive
+669	pen:rice(paddy-hus)	Multiplicative
+670	roha:paddy-unhusked	Multiplicative
+671	ratanagari:ginger (fresh)	Multiplicative
+672	ratanagari:ladies finger	Additive
+673	ratanagari:flower	Multiplicative
+674	ratanagari:cucumber	Additive
+675	ratanagari:bitter gourd	Multiplicative
+676	ratanagari:cabbage	Additive
+677	ratanagari:maize(corn.)	Additive
+678	ratanagari:capsicum	Multiplicative
+679	ratanagari:tomato	Multiplicative
+680	ratanagari:green-peas	Multiplicative
+681	ratanagari:brinjal	Additive
+682	ratanagari:green chilli	Multiplicative
+683	sangali:bajri	Additive
+684	sangali:wheat(husked)	Additive
+685	sangali:sorgum(jawar)	Additive
+686	sangali:wheat(unhusked)	Additive
+687	sangali:lentil	Multiplicative
+688	sangali:matki	Multiplicative
+689	sangali:green gram	Multiplicative
+690	sangali:soybean	Additive
+691	karad:chikoo	Multiplicative
+692	karad:pomegranate	Additive
+693	karad:banana	Additive
+694	karad:mosambi	Multiplicative
+695	karad:ginger (fresh)	Additive
+696	karad:potato	Additive
+697	karad:ladies finger	Multiplicative
+698	karad:bottle gourd	Additive
+699	karad:flower	Multiplicative
+700	karad:cluster bean	Additive
+701	karad:cucumber	Multiplicative
+702	karad:onion	Multiplicative
+703	karad:bitter gourd	Multiplicative
+704	karad:cabbage	Multiplicative
+705	karad:garlic	Additive
+706	karad:capsicum	Multiplicative
+707	karad:pavtta	Additive
+708	karad:shevga	Additive
+709	karad:ridge gourd	Multiplicative
+710	karad:tomato	Additive
+711	karad:brinjal	Multiplicative
+712	karad:green chilli	Additive
+713	koregaon:ghevda seed	Additive
+714	koregaon:gram	Additive
+715	koregaon:onion	Multiplicative
+716	lonand:bajri	Additive
+717	lonand:wheat(husked)	Multiplicative
+718	lonand:sorgum(jawar)	Additive
+719	lonand:maize	Multiplicative
+720	lonand:gram	Multiplicative
+721	lonand:onion	Multiplicative
+722	patan:ginger (fresh)	Additive
+723	patan:flower	Additive
+724	patan:cabbage	Additive
+725	patan:tomato	Additive
+726	patan:brinjal	Multiplicative
+727	patan:green chilli	Additive
+728	satara:ginger (fresh)	Multiplicative
+729	satara:potato	Additive
+730	satara:ladies finger	Additive
+731	satara:bottle gourd	Multiplicative
+732	satara:flower	Multiplicative
+733	satara:cluster bean	Additive
+734	satara:cucumber	Multiplicative
+735	satara:onion	Additive
+736	satara:bitter gourd	Multiplicative
+737	satara:cabbage	Multiplicative
+738	satara:capsicum	Additive
+739	satara:pavtta	Additive
+740	satara:tomato	Multiplicative
+741	satara:brinjal	Multiplicative
+742	satara:green chilli	Multiplicative
+743	vaduj:sorgum(jawar)	Multiplicative
+744	vaduj:maize	Multiplicative
+745	vaduj:gram	Additive
+746	vai:pavata	Multiplicative
+747	vai:ginger (fresh)	Multiplicative
+748	vai:ladies finger	Additive
+749	vai:bottle gourd	Multiplicative
+750	vai:flower	Multiplicative
+751	vai:cucumber	Multiplicative
+752	vai:cabbage	Additive
+753	vai:tomato	Multiplicative
+754	vai:brinjal	Multiplicative
+755	vai:green chilli	Multiplicative
+756	akluj:maize	Additive
+757	akluj:chikoo	Additive
+758	akluj:water melon	Additive
+759	akluj:potato	Multiplicative
+760	akluj:ladies finger	Additive
+761	akluj:onion	Additive
+762	akluj:bitter gourd	Additive
+763	akluj:cabbage	Additive
+764	akluj:garlic	Additive
+765	akluj:shevga	Multiplicative
+766	akluj:tomato	Additive
+767	akluj:brinjal	Additive
+768	akluj:chillies(red)	Multiplicative
+769	barshi:bajri	Multiplicative
+770	barshi:paddy-unhusked	Additive
+771	barshi:wheat(husked)	Additive
+772	barshi:sorgum(jawar)	Multiplicative
+773	barshi:maize	Multiplicative
+774	barshi:gram	Multiplicative
+775	barshi:green gram	Multiplicative
+776	barshi:pigeon pea (tur)	Multiplicative
+777	barshi:black gram	Additive
+778	barshi:lemon	Multiplicative
+779	barshi:ladies finger	Multiplicative
+780	barshi:flower	Additive
+781	barshi:cluster bean	Additive
+782	barshi:cucumber	Additive
+783	barshi:bitter gourd	Multiplicative
+784	barshi:cabbage	Multiplicative
+785	barshi:capsicum	Multiplicative
+786	barshi:ridge gourd	Additive
+787	barshi:tomato	Multiplicative
+788	barshi:brinjal	Multiplicative
+789	barshi:turmeric	Multiplicative
+790	barshi:green chilli	Multiplicative
+791	barshi:fodder	Additive
+792	barshi-vairag:sorgum(jawar)	Additive
+793	barshi-vairag:ground nut pods (dry)	Multiplicative
+794	dudhani:wheat(husked)	Multiplicative
+795	dudhani:sorgum(jawar)	Multiplicative
+796	dudhani:gram	Additive
+797	dudhani:pigeon pea (tur)	Multiplicative
+798	kurdwadi:wheat(husked)	Multiplicative
+799	kurdwadi:sorgum(jawar)	Additive
+800	kurdwadi:maize	Multiplicative
+801	kurdwadi:gram	Additive
+802	kurdwadi-modnimb:wheat(husked)	Multiplicative
+803	kurdwadi-modnimb:sorgum(jawar)	Multiplicative
+804	kurdwadi-modnimb:maize	Multiplicative
+805	kurdwadi-modnimb:gram	Multiplicative
+806	mangalwedha:wheat(husked)	Additive
+807	mangalwedha:sorgum(jawar)	Multiplicative
+808	mangalwedha:maize	Additive
+809	mangalwedha:gram	Multiplicative
+810	mangalwedha:ladies finger	Multiplicative
+811	mangalwedha:cucumber	Multiplicative
+812	mangalwedha:bitter gourd	Additive
+813	mangalwedha:ridge gourd	Multiplicative
+814	mangalwedha:tomato	Multiplicative
+815	mangalwedha:brinjal	Multiplicative
+816	mangalwedha:green chilli	Additive
+817	mohol:wheat(husked)	Multiplicative
+818	mohol:sorgum(jawar)	Additive
+819	mohol:maize	Additive
+820	pandharpur:sorgum(jawar)	Multiplicative
+821	pandharpur:pomegranate	Multiplicative
+822	pandharpur:banana	Additive
+823	pandharpur:onion	Additive
+824	pandharpur:cabbage	Multiplicative
+825	pandharpur:capsicum	Additive
+826	pandharpur:tomato	Additive
+827	pandharpur:brinjal	Multiplicative
+828	pandharpur:green chilli	Multiplicative
+829	sangola:pomegranate	Additive
+830	solapur:wheat(husked)	Multiplicative
+831	solapur:sorgum(jawar)	Multiplicative
+832	solapur:rice(paddy-hus)	Additive
+833	solapur:gram	Additive
+834	solapur:matki	Additive
+835	solapur:pigeon pea (tur)	Multiplicative
+836	solapur:green peas (dry)	Multiplicative
+837	solapur:chikoo	Additive
+838	solapur:pomegranate	Additive
+839	solapur:banana	Multiplicative
+840	solapur:lemon	Multiplicative
+841	solapur:papai	Additive
+842	solapur:potato	Additive
+843	solapur:ladies finger	Multiplicative
+844	solapur:carrot	Additive
+845	solapur:cluster bean	Additive
+846	solapur:cucumber	Multiplicative
+847	solapur:bitter gourd	Additive
+848	solapur:cabbage	Multiplicative
+849	solapur:capsicum	Multiplicative
+850	solapur:ridge gourd	Multiplicative
+851	solapur:tomato	Multiplicative
+852	solapur:brinjal	Multiplicative
+853	solapur:garlic	Additive
+854	solapur:green chilli	Multiplicative
+855	solapur:chillies(red)	Multiplicative
+856	bhivandi:wheat(husked)	Additive
+857	bhivandi:rice(paddy-hus)	Multiplicative
+858	bhivandi:potato	Multiplicative
+859	bhivandi:other vegetables	Additive
+860	bhivandi:onion	Additive
+861	murbad:paddy-unhusked	Multiplicative
+862	murbad:ladies finger	Additive
+863	murbad:bottle gourd	Additive
+864	murbad:ghosali(bhaji)	Additive
+865	murbad:bitter gourd	Additive
+866	murbad:tomato	Additive
+867	murbad:brinjal	Multiplicative
+868	shahapur:ladies finger	Multiplicative
+869	shahapur:chavli (shenga )	Multiplicative
+870	shahapur:ghosali(bhaji)	Additive
+871	shahapur:cucumber	Multiplicative
+872	shahapur:bitter gourd	Multiplicative
+873	hinganghat:gram	Multiplicative
+874	karanja:wheat(husked)	Additive
+875	karanja:sorgum(jawar)	Multiplicative
+876	karanja:gram	Multiplicative
+877	karanja:pigeon pea (tur)	Multiplicative
+878	karanja:black gram	Multiplicative
+879	mangrulpeer:wheat(husked)	Additive
+880	mangrulpeer:sorgum(jawar)	Additive
+881	mangrulpeer:gram	Multiplicative
+882	mangrulpeer:pigeon pea (tur)	Multiplicative
+883	mangrulpeer:black gram	Multiplicative
+884	mangrulpeer:soybean	Multiplicative
+885	manora:soybean	Multiplicative
+886	risod:gram	Additive
+887	risod:soybean	Multiplicative
+888	washim:wheat(husked)	Multiplicative
+889	washim:sorgum(jawar)	Multiplicative
+890	washim:gram	Additive
+891	washim:green gram	Additive
+892	washim:pigeon pea (tur)	Multiplicative
+893	washim:black gram	Additive
+894	washim:soybean	Multiplicative
+895	babhulgaon:soybean	Multiplicative
+896	digras:wheat(husked)	Additive
+897	digras:sorgum(jawar)	Additive
+898	digras:gram	Multiplicative
+899	digras:pigeon pea (tur)	Additive
+900	digras:soybean	Multiplicative
+901	ner parasopant:soybean	Multiplicative
+902	umarkhed:soybean	Additive
+903	umarkhed-danki:wheat(husked)	Multiplicative
+904	umarkhed-danki:soybean	Multiplicative
+905	yeotmal:pigeon pea (tur)	Additive
+906	yeotmal:soybean	Additive
